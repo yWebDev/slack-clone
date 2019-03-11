@@ -1,0 +1,6 @@
+:root,
+.app {
+    min-height: 100vh;
+    background: #eee;
+    padding: 1em;
+}
